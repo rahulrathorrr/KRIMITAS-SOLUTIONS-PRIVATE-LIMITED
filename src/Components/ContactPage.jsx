@@ -94,14 +94,14 @@ const ContactPage = () => {
                   <Globe className="w-7 h-7" />
                 </div>
                 <div>
-                  <h4 className="text-xl font-semibold text-gray-900 mb-2">Website</h4>
+                  <h4 className="text-xl font-semibold text-gray-900 mb-2">Email</h4>
                   <a 
                     href="https://krimitassolutions.in" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-blue-600 transition-colors text-lg"
                   >
-                    https://krimitassolutions.in
+                    support@krimitassolutions.in
                   </a>
                 </div>
               </div>
